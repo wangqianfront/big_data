@@ -22,4 +22,4 @@
 
 Cobar/TDDL
 
-Cannel 订阅binlog
+5. Cannel 订阅binlog
