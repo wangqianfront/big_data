@@ -21,3 +21,5 @@
 # 分库分表
 
 Cobar/TDDL
+
+Cannel 订阅binlog
